@@ -1,4 +1,4 @@
-# OCTANET_MAY_Task02
+#To Do List
 Here is a web page called TO-DO LIST. It is a website of todo list where this website mainly concentrates on "Functionality" and "User-friendly" of todo list website.The page should allow users to add,delete and mark as complete.
 
 # Introduction
